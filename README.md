@@ -1,11 +1,11 @@
 # FAXI MD
-<a href='https://postimg.cc/BP3ZF1bL' target='_blank'><img src='https://i.postimg.cc/BP3ZF1bL/IMG-20240814-WA0042.jpg' border='0' alt='IMG-20240814-WA0042'/></a>
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+FAXI+MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+FAXI+TECH;RELEASED+DATE+14%2F8%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
-<img src=["<a href='https://postimg.cc/BP3ZF1bL' target='_blank'><img src='https://i.postimg.cc/BP3ZF1bL/IMG-20240814-WA0042.jpg' border='0' alt='IMG-20240814-WA0042'/></a>](https://i.postimg.cc/HncrfwC2/IMG-20240814-WA0042.jpg)"/> 
+<img src="https://telegra.ph/file/a22200a780671e0e32383.jpg"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{FAXI TECH}/count.svg" alt="FAXI TECH :: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/mrbot-59/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrbot-59?color=red&style=flat-square"></a>
@@ -17,7 +17,8 @@
 <a href="https://github.com/mrbot-59/FAXI-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
-    </p><a href='https://postimg.cc/BP3ZF1bL' target='_blank'><img src='<a href='https://postimg.cc/BP3ZF1bL' target='_blank'><img src='https://i.postimg.cc/BP3ZF1bL/IMG-20240814-WA0042.jpg' border='0' alt='IMG-20240814-WA0042'/></a>' border='0' alt='IMG-20240814-WA0042'/></a>
+    </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
  ## FAXI-MD Deployment Methods
