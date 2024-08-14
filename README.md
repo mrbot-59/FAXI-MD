@@ -29,17 +29,7 @@
 
 ### 2. GET SESSION ID HERE
 
-### SERVER 1
- 
-https://suhail-md-vtsf.onrender.com
-https://suhail-md-vtsf.onrender.com
-
-### SERVER 2 
-### GET SESSION ID HERE
-
-<a href="https://suhail-md-vtsf.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR CODE-red" alt="Click Here to Get Pair-Code" width="110"></a>   
-
-<a href="https://suhail-md-vtsf.onrender.com//wasiqr"><img src="https://img.shields.io/badge/QR CODE-blue" alt="Click Here to Get QR-Code" width="90"></a>
+***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 ### **PLEASE PICK RANDOMLY DON'T SPAM A PARTICULAR SERVER**
 
 
