@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+FAXI+MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+FAXI+TECH;RELEASED+DATE+14%2F8%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
-<img src="https://telegra.ph/file/a22200a780671e0e32383.jpg"/> 
+<img src="https://img.hotimg.com/12a4284a3d0d5d72e.png"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{FAXI TECH}/count.svg" alt="FAXI TECH :: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/mrbot-59/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrbot-59?color=red&style=flat-square"></a>
