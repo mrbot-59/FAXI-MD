@@ -1,5 +1,5 @@
 # FAXI MD
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a href='https://postimg.cc/BP3ZF1bL' target='_blank'><img src='https://i.postimg.cc/BP3ZF1bL/IMG-20240814-WA0042.jpg' border='0' alt='IMG-20240814-WA0042'/></a>
 <p align="center">
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+FAXI+MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+FAXI+TECH;RELEASED+DATE+14%2F8%2F2024." alt="Typing SVG" /></a>
