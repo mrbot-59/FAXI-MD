@@ -31,9 +31,8 @@
 
 ### SERVER 1
  
-<a href="https://suhail-md-vtsf.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
-
-<a href="https://suhail-md-vtsf.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
+https://suhail-md-vtsf.onrender.com
+https://suhail-md-vtsf.onrender.com
 
 ### SERVER 2 
 ### GET SESSION ID HERE
