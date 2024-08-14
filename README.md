@@ -17,7 +17,7 @@
 <a href="https://github.com/mrbot-59/FAXI-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
-    </p><a href='https://postimg.cc/BP3ZF1bL' target='_blank'><img src='https://i.postimg.cc/BP3ZF1bL/IMG-20240814-WA0042.jpg' border='0' alt='IMG-20240814-WA0042'/></a>
+    </p><a href='https://postimg.cc/BP3ZF1bL' target='_blank'><img src='<a href='https://postimg.cc/BP3ZF1bL' target='_blank'><img src='https://i.postimg.cc/BP3ZF1bL/IMG-20240814-WA0042.jpg' border='0' alt='IMG-20240814-WA0042'/></a>' border='0' alt='IMG-20240814-WA0042'/></a>
 <p align="center">
 
  ## FAXI-MD Deployment Methods
