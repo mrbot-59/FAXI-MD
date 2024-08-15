@@ -39,7 +39,7 @@
     <br>
     <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 ## Watch Render Tutorial Video.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/PFYaqnuFKi8?si=clmY9NehWGACP1AM)
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/EkrnmcRMHes)
 
 ### DEPLOY ON KOYEB
 
@@ -47,7 +47,7 @@
     <br>
     <a href='https://koyeb.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 ## Watch Koyeb Tutorial videos.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/j4f5oNsbkTA?si=019D3aaX05yBnI-5)
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/m4h3g03TgMA)
 
 
 ### DEPLOY ON CLEVER CLOUD
